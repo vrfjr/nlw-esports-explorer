@@ -6,9 +6,9 @@
 }
 
 body {
-    background-image: url(./Assets/bg.jpg);
+    background-image: url("/Assets/bg.jpg");
     background-position: top center;
-    background-size: 100% auto;
+    background-size: 100% auto; 
     background-repeat: no-repeat;
     background-color: #121214;
 }
